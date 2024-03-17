@@ -1,0 +1,39 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-49acd858.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/css/fonts/Yekan.eot": {
+    "file": "assets/Yekan-c5175a20.eot",
+    "src": "resources/css/fonts/Yekan.eot"
+  },
+  "resources/css/fonts/Yekan.ttf": {
+    "file": "assets/Yekan-1bd96aee.ttf",
+    "src": "resources/css/fonts/Yekan.ttf"
+  },
+  "resources/css/fonts/Yekan.woff": {
+    "file": "assets/Yekan-da78e001.woff",
+    "src": "resources/css/fonts/Yekan.woff"
+  },
+  "resources/css/fonts/vazir/ttf/Vazirmatn-Regular.ttf": {
+    "file": "assets/Vazirmatn-Regular-b69fd4c6.ttf",
+    "src": "resources/css/fonts/vazir/ttf/Vazirmatn-Regular.ttf"
+  },
+  "resources/css/fonts/vazir/webfonts/Vazirmatn-Regular.woff2": {
+    "file": "assets/Vazirmatn-Regular-e3821013.woff2",
+    "src": "resources/css/fonts/vazir/webfonts/Vazirmatn-Regular.woff2"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-4d2b0a02.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "css": [
+      "assets/app-4d2b0a02.css"
+    ],
+    "file": "assets/app-dd5220d9.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
